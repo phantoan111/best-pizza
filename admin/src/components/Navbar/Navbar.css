@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 8px 4%;
+    background-color: #f1c40fc7;
 }
 
 .navbar .logo {
@@ -11,4 +12,5 @@
 
 .navbar .profile{
     width:40px;
+    border-radius: 20px;
 }

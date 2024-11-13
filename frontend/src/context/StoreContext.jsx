@@ -19,6 +19,7 @@ const StoreContextProvider = (props) => {
         console.log(response.data)
         setFoodList(response.data.data)
         if (response.data.success){
+            
         }
     }
 
